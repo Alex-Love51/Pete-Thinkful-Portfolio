@@ -65,9 +65,9 @@ The following screenshots illustrate the development of the webpage from the ori
 ![Before index](screenshots/before-index-header.png)
 ![Index after header](screenshots/index-after-header.png)
 ![Before CSS Style](screenshots/before-style-css.png)
-![Fixed link targets](fix-link-targets.png)
+![Fixed link targets](screenshots/fix-link-targets.png)
 ### Header and Navigation
-![After header and nav created](screenshots/After-Header-and-Nav-Web-Page.png)
+![After header and nav created](screenshots/add-header-and-nav.png)
 ### About Section
 ![About section text](screenshots/about-text.png)
 ### Portfolio and Contact Sections
@@ -75,12 +75,12 @@ The following screenshots illustrate the development of the webpage from the ori
 ![Webpage portfolion section page 1](screenshots/add-portfolio-p1.png)
 ![Webpage portfolion section page 2](screenshots/add-portfolio-p2.png)
 ### Final Styled Webpage
-![Final webpage part1](fscreenshots/final-webpage-p1.png)
-![Final webpage part2](fscreenshots/final-webpage-p2.png)
-![Final webpage part3](fscreenshots/final-webpage-p3.png)
-![Final webpage part4](fscreenshots/final-webpage-p4.png)
+![Final webpage part1](screenshots/final-webpage-p1.png)
+![Final webpage part2](screenshots/final-webpage-p2.png)
+![Final webpage part3](screenshots/final-webpage-p3.png)
+![Final webpage part4](screenshots/final-webpage-p4.png)
 ### HTML Validation
-![Validation syntax](screenshots/validation-syntax-fixed.png)
+![Validation syntax](screenshots/syntax-validation-fix.png)
 ![Markup Validation no errors](screenshots/markup-validation-no-errors.png)
 ### Git Commit History
 
