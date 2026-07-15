@@ -80,8 +80,8 @@ The following screenshots illustrate the development of the webpage from the ori
 ![Validation syntax](screenshots/header-syntax-fix.png)
 ![Markup Validation no errors](screenshots/syntax-validation-fix.png)
 ### Git Commit History
-![Commit part 1](screenshots/commit-p1)
-![Commit part 2](screenshots/commit-p2)
-![Commit part 3](screenshots/commit-p3)
+![Commit part 1](screenshots/commit-p1.png)
+![Commit part 2](screenshots/commit-p2.png)
+![Commit part 3](screenshots/commit-p3.png)
 ## Live Project
 [Pete's Portfolio](https://alex-love51.github.io/Pete-Thinkful-Portfolio/)
