@@ -62,7 +62,7 @@ and use VS Code, Git and Github for version control. The following provides addi
 ## Development Screenshots
 The following screenshots illustrate the development of the webpage from the original starter code through the completed and validated portfolio.
 ### Overall Webpage Progression
-![Before index](screenshots/intitial-index-html-before-header.png)
+![Before index](screenshots/before-index-header.png)
 ![Index after header](screenshots/index-after-header.png)
 ![Before CSS Style](screenshots/before-style-css.png)
 ![Fixed link targets](fix-link-targets.png)
