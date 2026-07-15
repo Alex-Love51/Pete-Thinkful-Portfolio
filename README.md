@@ -80,7 +80,7 @@ The following screenshots illustrate the development of the webpage from the ori
 ![Final webpage part3](screenshots/final-webpage-p3.png)
 ![Final webpage part4](screenshots/final-webpage-p4.png)
 ### HTML Validation
-![Validation syntax](screenshots/syntax-validation-fix.png)
+![Validation syntax](screenshots/header-syntax-fix.png)
 ![Markup Validation no errors](screenshots/markup-validation-no-errors.png)
 ### Git Commit History
 
