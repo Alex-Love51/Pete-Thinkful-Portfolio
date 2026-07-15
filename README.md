@@ -61,21 +61,27 @@ and use VS Code, Git and Github for version control. The following provides addi
   
 ## Development Screenshots
 The following screenshots illustrate the development of the webpage from the original starter code through the completed and validated portfolio.
-### Original Webpage
+### Overall Webpage Progression
 ![Before index](screenshots/intitial-index-html-before-header.png)
-![Index after header](screenshots/Index.html-Afer-Header.png)
+![Index after header](screenshots/index-after-header.png)
+![Before CSS Style](screenshots/before-style-css.png)
+![Fixed link targets](fix-link-targets.png)
 ### Header and Navigation
 ![After header and nav created](screenshots/After-Header-and-Nav-Web-Page.png)
 ### About Section
-![About section text](screenshots/About-section-text.png)
+![About section text](screenshots/about-text.png)
 ### Portfolio and Contact Sections
-![Webpage portfolio and Contact text](screenshots/Add-Portfioli-and-Contact-text.png)
-![Webpage portfolion section page 1](screenshots/Add-portfolio-p1.png)
-![Webpage portfolion section page 2](screenshots/Add-portfolio-p2.png)
+![Webpage portfolio and Contact text](screenshots/portfolio-contact-text.png)
+![Webpage portfolion section page 1](screenshots/add-portfolio-p1.png)
+![Webpage portfolion section page 2](screenshots/add-portfolio-p2.png)
 ### Final Styled Webpage
-
+![Final webpage part1](fscreenshots/final-webpage-p1.png)
+![Final webpage part2](fscreenshots/final-webpage-p2.png)
+![Final webpage part3](fscreenshots/final-webpage-p3.png)
+![Final webpage part4](fscreenshots/final-webpage-p4.png)
 ### HTML Validation
-
+![Validation syntax](screenshots/validation-syntax-fixed.png)
+![Markup Validation no errors](screenshots/markup-validation-no-errors.png)
 ### Git Commit History
 
 ## Git Commit History
