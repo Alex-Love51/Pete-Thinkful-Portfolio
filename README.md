@@ -22,7 +22,6 @@ The webpage was designed by the provided mockup over redesigning the page accord
 - Visual Studio Code
 - MDN Playground
 - The W3C Markup Validation Service
-
 ## AI Tool Disclosure
 I used ChatGPT as a learning mentor and debugging resource throughout this project.  I used it to clarify unfamiliar concenpts, better understand Git, GitHub, and VS Code workflows, interpret project requirements, organize project documentation, and recieve guidance when troubleshooting HTML, CSS, and Markdown.  My goal was to complete the project independently rather than have AI generate the webpage.  I wrote and tested the HTML and CSS myself and used ChatGPT primaryly for explanation, reasoning prompts, terminology, and targeted guidance when I became stuck.  When possible, I attempted to identify the cause of an issue before requesting assistance.  
 
@@ -36,8 +35,7 @@ I intially used the same class for the navigation list and the bulleted list in 
 ### Correcting the Contact Ordered List
 While styling the Contact section, I encountered issues with list alignment and marker types. Some CSS declarations changed the numbered list markers into bullets. I learned that list-markers type, marker postion, and text alignment are separate styling concerns.  I simplified the CSS, restored the numbered list, aligned the content to match the mock-up, and added anchor elements to make the social-media clickable.
 ### HTML Validation
-The W3C Markup Validation Service initially reported four errors. After reviewing the message, I discovered that all four errors resulted from one missing closing '</header>' tag. The browser still rendered the webpage because browsers can attempt to recover from invalid HTML, but the validator indentified the incorrect document hierarchy. Adding the missing closing tag resolved all four validation errors.
-  
+The W3C Markup Validation Service initially reported four errors. After reviewing the message, I discovered that all four errors resulted from one missing closing '</header>' tag. The browser still rendered the webpage because browsers can attempt to recover from invalid HTML, but the validator indentified the incorrect document hierarchy. Adding the missing closing tag resolved all four validation errors.  
 ## What I Learned
 During this project, I learned how to build and style a one-page portfolio, use CSS selectors to target specific elements, validate HTML, 
 and use VS Code, Git and Github for version control. The following provides additional details:
@@ -57,8 +55,7 @@ and use VS Code, Git and Github for version control. The following provides addi
 *  Debugging is observation, testing, identifying the cause, correcting it, and verifying the result.
 *  Researching documentation is part of development and not evidence that you failed to memorize something.
 *  A README is technical documentation that explains the project, process, tools, decisions, challendges, and learning and not merely a short description
-*  I discovered that I genuinely enjoy CSS and visual front-end development.
-  
+*  I discovered that I genuinely enjoy CSS and visual front-end development. 
 ## Development Screenshots
 The following screenshots illustrate the development of the webpage from the original starter code through the completed and validated portfolio.
 ### Overall Webpage Progression
@@ -83,7 +80,8 @@ The following screenshots illustrate the development of the webpage from the ori
 ![Validation syntax](screenshots/header-syntax-fix.png)
 ![Markup Validation no errors](screenshots/syntax-validation-fix.png)
 ### Git Commit History
-
-## Git Commit History
-
+![Commit part 1](screenshots/commit-p1)
+![Commit part 2](screenshots/commit-p2)
+![Commit part 3](screenshots/commit-p3)
 ## Live Project
+[Pete's Portfolio](https://alex-love51.github.io/Pete-Thinkful-Portfolio/)
